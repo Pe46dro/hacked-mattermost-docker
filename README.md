@@ -1,8 +1,10 @@
+Fork based on the idea proposed by [AkitaOnRails](http://www.akitaonrails.com/2016/08/12/hacking-mattermost-team-edition)
+
 Dockerfiles for Mattermost in production
 
 See [README.aws.md](./README.aws.md) if you want to install it on AWS Elastic Beanstalk.
 
-[![Build Status](https://travis-ci.org/mattermost/mattermost-docker.svg?branch=master)](https://travis-ci.org/mattermost/mattermost-docker)
+[![Build Status](https://travis-ci.org/Pe46dro/hacked-mattermost-docker.svg?branch=master)](https://travis-ci.org/Pe46dro/hacked-mattermost-docker)
 
 ## Requirements
 
